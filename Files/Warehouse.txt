@@ -1,0 +1,4 @@
+Pepsi 0.5lt|41 dona|6000|246000
+Sabzi|58 kg|7500|435000
+Kartoshka|105 kg|10000|1050000
+Qovoq|10 dona|1200|12000
